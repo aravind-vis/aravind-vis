@@ -64,7 +64,6 @@ aren’t “nice to have” — they’re part of the architecture.
 - **AI & Governance**:
   - AI/ML platform integration
   - Model lifecycle & accountability frameworks
-  - Risk-aware AI adoption and compliance
   - Operational observability for AI systems
 
 ---
