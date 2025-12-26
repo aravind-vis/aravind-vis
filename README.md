@@ -31,7 +31,6 @@ models that don’t kill innovation** but still create accountability and trust.
 This includes:
 - Designing model lifecycle and accountability frameworks
 - Building **AI-assisted developer tooling**
-- Designing **agentic workflow systems**
 - Ensuring AI-enabled systems are observable and operable in production
 
 ### API & Integration Strategy
